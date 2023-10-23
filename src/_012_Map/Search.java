@@ -14,7 +14,6 @@ public class Search {
             list.add(string.charAt(i));
             for (int j = 0; j < string.length(); j++) {
                 if (string.charAt(j) < list.getLast()) {
-
                 }
 
             }
